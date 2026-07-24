@@ -35,4 +35,4 @@ Auditoria de um arquivo de log de grande escala (4 GB) para identificar falhas d
 ```text
 2020-05-11 00:09:52,532 | ERROR -> Erro não esperado
 
-Código-fonte: Exercicio02_Dell.py
+**Código-fonte:** [`Exercicio02_Dell.py`](./Exercicio02_Dell.py)
