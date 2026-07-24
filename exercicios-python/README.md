@@ -19,7 +19,7 @@ Análise de avaliações de músicas dos gêneros Rock e Pop. Cada usuário atri
 3. **Validação Global:** Verificar se todas as músicas de Pop são boas utilizando `all()`.
 4. **Comparação:** Contar e comparar a quantidade de músicas boas entre os dois gêneros.
 
-**Código-fonte:** [`Exercicio01_Dell.py`](./Exercicio01_Dell.py)
+**Código-fonte:** [Exercicio01_Dell.py](./Exercicio01_Dell.py)
 
 ---
 
@@ -34,5 +34,7 @@ Auditoria de um arquivo de log de grande escala (4 GB) para identificar falhas d
 **Exemplo:**
 ```text
 2020-05-11 00:09:52,532 | ERROR -> Erro não esperado
+```
 
-**Código-fonte:** [`Exercicio02_Dell.py`](./Exercicio02_Dell.py)
+**Código-fonte:** [Exercicio02_Dell.py](./Exercicio02_Dell.py)
+
